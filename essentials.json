@@ -1,0 +1,213 @@
+{
+	"Whole Grains": [
+		{
+			"component": "Oats",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/Oats.jpg",
+			"recipes": " Idly, Upma, Dosa, Khichdi, Chilla"
+		},
+		{
+			"component": "Whole Wheat Flour",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/WholeWheatFlour.jpg",
+			"recipes": " Chapathi,Poori"
+		},
+		{
+			"component": "Ragi",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/Ragi.jpg",
+			"recipes": " Idly,Dosa"
+		},
+		{
+			"component": "Millets",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/Millets.jpg",
+			"recipes": " Idly,Upma,Dosa"
+		},
+		{
+			"component": "Whole Green Grams",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/WholeGreenGrams.jpg",
+			"recipes": " Idly,Dosa"
+		},
+		{
+			"component": "Brown Rice",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/BrownRice.jpg",
+			"recipes": " All Rice-Based Dishes"
+		}
+	],
+	"Vegetables": [
+		{
+			"component": "Cruciferous",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/cruciferous.jpg",
+			"recipes": " Cabbage Curry, Cauliflower Curry"
+		}
+	],
+	"Fruits": [
+		{
+			"component": "Citrus",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/citrus.jpg",
+			"recipes": " Fresh Fruit Juice, Yogurt Salad"
+		},
+		{
+			"component": "Apples",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/apples.jpg",
+			"recipes": " Fresh Fruit Juice, Yogurt Salad"
+		},
+		{
+			"component": "Bananas",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/bananas.jpg",
+			"recipes": " Fresh Fruit Juice, Yogurt Salad"
+		}
+	],
+	"Oils": [
+		{
+			"component": "Canola Oil",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/canolaoil.jpg",
+			"recipes": " Cooking, Salad Dressing"
+		},
+		{
+			"component": "Olive Oil",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/oliveoil.jpg",
+			"recipes": " Cooking, Salad Dressing"
+		}
+	],
+	"Nuts-Seeds": [
+		{
+			"component": "Walnuts",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/walnuts.jpg",
+			"recipes": " Direct Consumption "
+		},
+		{
+			"component": "Almonds",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/almonds.jpg",
+			"recipes": " Direct Consumption  (Pre-Soaked"
+		},
+		{
+			"component": "Brazil Nuts",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/brazilnuts.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Pumpkin Seeds",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/PumpkinSeeds.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Flax Seeds",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/flaxseeds.jpg",
+			"recipes": " Direct Consumption"
+		}
+	],
+	"Dairy": [
+		{
+			"component": "Milk",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/milk.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Curd",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/curd.jpg",
+			"recipes": " Direct Consumption"
+		}
+	],
+	"Fibre-Rich": [
+		{
+			"component": "Bananas",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/bananas.jpg",
+			"recipes": " Direct Consumption,Yogurt Salad"
+		},
+		{
+			"component": "Beans",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/beans.jpg",
+			"recipes": " Khichdi, Curry"
+		}
+	],
+	"Omega-3-Rich": [
+		{
+			"component": "Walnuts",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/walnuts.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Olive Oil",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/oliveoil.jpg",
+			"recipes": " Cooking,Salad Dressing"
+		},
+		{
+			"component": "Canola Oil",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/canolaoil.jpg",
+			"recipes": " Cooking,Salad Dressing"
+		},
+		{
+			"component": "Spinach",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/spinach.jpg",
+			"recipes": " Curry,Dal"
+		}
+	],
+	"Selenium-Rich": [
+		{
+			"component": "Eggs",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/eggs.jpg",
+			"recipes": " Boiled Eggs"
+		},
+		{
+			"component": "Brazil Nuts",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/brazilnuts.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Whole Grains",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/Oats.jpg",
+			"recipes": " Idly,Upma,Dosa,Khichdi"
+		}
+	],
+	"Serotonin-Rich": [
+		{
+			"component": "Bananas",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/bananas.jpg",
+			"recipes": " Direct Consumption,Yogurt Salad"
+		}
+	],
+	"Magnesium-Rich": [
+		{
+			"component": "Pumpkin Seeds",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/PumpkinSeeds.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Almonds",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/almonds.jpg",
+			"recipes": " Direct Consumption (Pre-Soaked"
+		},
+		{
+			"component": "Chickpeas",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/chickpeas.jpg",
+			"recipes": " Curry"
+		},
+		{
+			"component": "Spinach",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/spinach.jpg",
+			"recipes": " Curry, Dal"
+		}
+	],
+	"Tryptophan-Rich": [
+		{
+			"component": "Eggs",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/eggs.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Milk",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/milk.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Nuts and Seeds",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/nuts.jpg",
+			"recipes": " Direct Consumption"
+		}
+	],
+	"Probiotics": [
+		{
+			"component": "Curd",
+			"src": "https://raw.githubusercontent.com/harshchalla4794/the-desi-meals-content/main/images_components/curd.jpg",
+			"recipes": " Raita, Direct Consumption"
+		}
+	]
+}
