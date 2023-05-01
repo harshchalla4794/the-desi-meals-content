@@ -1,0 +1,213 @@
+{
+	"Whole Grains": [
+		{
+			"component": "Oats",
+			"src": "https://i.ibb.co/pZJd3HC/Oats.jpg",
+			"recipes": " Idly, Upma, Dosa, Khichdi, Chilla"
+		},
+		{
+			"component": "Whole Wheat Flour",
+			"src": "https://i.ibb.co/gZ1rSgv/Whole-Wheat-Flour.jpg",
+			"recipes": " Chapathi,Poori"
+		},
+		{
+			"component": "Ragi",
+			"src": "https://i.ibb.co/CJp11pD/Ragi.jpg",
+			"recipes": " Idly,Dosa"
+		},
+		{
+			"component": "Millets",
+			"src": "https://i.ibb.co/3NCrTVs/Millets.jpg",
+			"recipes": " Idly,Upma,Dosa"
+		},
+		{
+			"component": "Whole Green Grams",
+			"src": "https://i.ibb.co/JKX2LbN/Whole-Green-Grams.jpg",
+			"recipes": " Idly,Dosa"
+		},
+		{
+			"component": "Brown Rice",
+			"src": "https://i.ibb.co/BVTGx3L/Brown-Rice.jpg",
+			"recipes": " All Rice-Based Dishes"
+		}
+	],
+	"Vegetables": [
+		{
+			"component": "Cruciferous",
+			"src": "https://i.ibb.co/5vDXjzN/cruciferous.jpg",
+			"recipes": " Cabbage Curry, Cauliflower Curry"
+		}
+	],
+	"Fruits": [
+		{
+			"component": "Citrus",
+			"src": "https://i.ibb.co/1JzcttP/citrus.jpg",
+			"recipes": " Fresh Fruit Juice, Yogurt Salad"
+		},
+		{
+			"component": "Apples",
+			"src": "https://i.ibb.co/6BjGLmr/apples.jpg",
+			"recipes": " Fresh Fruit Juice, Yogurt Salad"
+		},
+		{
+			"component": "Bananas",
+			"src": "https://i.ibb.co/DfSFF0B/bananas.jpg",
+			"recipes": " Fresh Fruit Juice, Yogurt Salad"
+		}
+	],
+	"Oils": [
+		{
+			"component": "Canola Oil",
+			"src": "https://i.ibb.co/7yy2J5b/canolaoil.jpg",
+			"recipes": " Cooking, Salad Dressing"
+		},
+		{
+			"component": "Olive Oil",
+			"src": "https://i.ibb.co/YpP7nMX/oliveoil.jpg",
+			"recipes": " Cooking, Salad Dressing"
+		}
+	],
+	"Nuts-Seeds": [
+		{
+			"component": "Walnuts",
+			"src": "https://i.ibb.co/18wmC0P/walnuts.jpg",
+			"recipes": " Direct Consumption "
+		},
+		{
+			"component": "Almonds",
+			"src": "https://i.ibb.co/1Xrhv8y/almonds.jpg",
+			"recipes": " Direct Consumption  (Pre-Soaked"
+		},
+		{
+			"component": "Brazil Nuts",
+			"src": "https://i.ibb.co/SKRjLj4/brazilnuts.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Pumpkin Seeds",
+			"src": "https://i.ibb.co/pnJRb2h/Pumpkin-Seeds.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Flax Seeds",
+			"src": "https://i.ibb.co/gMtV6PC/flaxseeds.jpg",
+			"recipes": " Direct Consumption"
+		}
+	],
+	"Dairy": [
+		{
+			"component": "Milk",
+			"src": "https://i.ibb.co/q9qWvvL/milk.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Curd",
+			"src": "https://i.ibb.co/x39DRnj/curd.jpg",
+			"recipes": " Direct Consumption"
+		}
+	],
+	"Fibre-Rich": [
+		{
+			"component": "Bananas",
+			"src": "https://i.ibb.co/DfSFF0B/bananas.jpg",
+			"recipes": " Direct Consumption,Yogurt Salad"
+		},
+		{
+			"component": "Beans",
+			"src": "https://i.ibb.co/W2Qbryn/beans.jpg",
+			"recipes": " Khichdi, Curry"
+		}
+	],
+	"Omega-3-Rich": [
+		{
+			"component": "Walnuts",
+			"src": "https://i.ibb.co/18wmC0P/walnuts.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Olive Oil",
+			"src": "https://i.ibb.co/YpP7nMX/oliveoil.jpg",
+			"recipes": " Cooking,Salad Dressing"
+		},
+		{
+			"component": "Canola Oil",
+			"src": "https://i.ibb.co/7yy2J5b/canolaoil.jpg",
+			"recipes": " Cooking,Salad Dressing"
+		},
+		{
+			"component": "Spinach",
+			"src": "https://i.ibb.co/xLJ6Vsq/spinach.jpg",
+			"recipes": " Curry,Dal"
+		}
+	],
+	"Selenium-Rich": [
+		{
+			"component": "Eggs",
+			"src": "https://i.ibb.co/4S2KL6x/eggs.jpg",
+			"recipes": " Boiled Eggs"
+		},
+		{
+			"component": "Brazil Nuts",
+			"src": "https://i.ibb.co/SKRjLj4/brazilnuts.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Whole Grains",
+			"src": "https://i.ibb.co/pZJd3HC/Oats.jpg",
+			"recipes": " Idly,Upma,Dosa,Khichdi"
+		}
+	],
+	"Serotonin-Rich": [
+		{
+			"component": "Bananas",
+			"src": "https://i.ibb.co/DfSFF0B/bananas.jpg",
+			"recipes": " Direct Consumption,Yogurt Salad"
+		}
+	],
+	"Magnesium-Rich": [
+		{
+			"component": "Pumpkin Seeds",
+			"src": "https://i.ibb.co/pnJRb2h/Pumpkin-Seeds.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Almonds",
+			"src": "https://i.ibb.co/1Xrhv8y/almonds.jpg",
+			"recipes": " Direct Consumption (Pre-Soaked"
+		},
+		{
+			"component": "Chickpeas",
+			"src": "https://i.ibb.co/tLgdJQR/chickpeas.jpg",
+			"recipes": " Curry"
+		},
+		{
+			"component": "Spinach",
+			"src": "https://i.ibb.co/xLJ6Vsq/spinach.jpg",
+			"recipes": " Curry, Dal"
+		}
+	],
+	"Tryptophan-Rich": [
+		{
+			"component": "Eggs",
+			"src": "https://i.ibb.co/4S2KL6x/eggs.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Milk",
+			"src": "https://i.ibb.co/q9qWvvL/milk.jpg",
+			"recipes": " Direct Consumption"
+		},
+		{
+			"component": "Nuts and Seeds",
+			"src": "https://i.ibb.co/wgW3zst/nuts.jpg",
+			"recipes": " Direct Consumption"
+		}
+	],
+	"Probiotics": [
+		{
+			"component": "Curd",
+			"src": "https://i.ibb.co/x39DRnj/curd.jpg",
+			"recipes": " Raita, Direct Consumption"
+		}
+	]
+}
